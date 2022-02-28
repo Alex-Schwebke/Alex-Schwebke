@@ -17,8 +17,6 @@
   
 </div>
 
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -63,24 +61,11 @@
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alex-Schwebke&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-
-  
-
-<br/>  
-
   
 
 <br/>  
@@ -88,12 +73,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Alex-Schwebke&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
