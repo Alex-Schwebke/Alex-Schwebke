@@ -3,17 +3,17 @@
 </div>  
   
 
-## <div align="center">I'm Alex, a full-time Computer Science Student at Colorado State University.</div>  
+## <div align="center">I'm Alex, a Computer Science graduate from Colorado State University.</div>  
 
 <div align="center">
 
  📝 I’m currently working on improving test coverage for an open source Apache Commons repository. 📝  
   
 
- ⛓️ Solidity is the newest language I am learning. ⛓️  
+ ⛓️ X++ is the newest language I am learning. ⛓️  
   
 
- ☕ Coffee is life. ☕  
+ ☕ Caffine. ☕  
   
 </div>
 
